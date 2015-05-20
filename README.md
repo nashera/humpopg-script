@@ -1,2 +1,2 @@
-trans_snp
+humpopg-script
 =========
