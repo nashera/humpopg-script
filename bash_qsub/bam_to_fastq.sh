@@ -1,0 +1,1 @@
+java -Xmx2g -jar /home/zhangxi/software/picard-tools-1.126/picard.jar SamToFastq INPUT=/picb/humpopg-bigdata/zhangxi/cortex_test/WGC021931D_chr1/WGC021931D.chr1.bam OUTPUT_PER_RG=true OUTPUT_DIR=/picb/humpopg-bigdata/zhangxi/cortex_test/WGC021931D_chr1

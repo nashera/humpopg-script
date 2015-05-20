@@ -1,0 +1,9 @@
+nohup: ignoring input
+WGC021954D
+WGC021954D.chr11.bqsr.bam
+[Sun Feb  8 04:20:39 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr11.bqsr.bam
+[Sun Feb  8 06:01:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 06:01:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 31787
+[Sun Feb  8 06:01:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 31787 is still there...
+[Sun Feb  8 06:01:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 31787 ...
+[Sun Feb  8 06:01:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 31787
