@@ -26,7 +26,6 @@ my ($sv_ind,$sv_ind_filtered)=@ARGV;
 open(my $ind_sv_file,"<","$sv_ind") || die $!;
 open(my $filtered,">","$sv_ind_filtered") || die $!;
 my $ra_ind_sv_output=abstract_breakdancer($ind_sv_file);
-<<<<<<< HEAD
 my @ind_sv_output_modefied=@$ra_ind_sv_output;
 my $ra_ind_sv_output_modefied=\@ind_sv_output_modefied;
 my $length = scalar(@$ra_ind_sv_output)-1;
@@ -37,12 +36,10 @@ my $ra_null=\@null;
 my $n=0;
 =cut
 my $ra_cnv_array_filtered;
-=======
 my $length = scalar(@$ra_ind_sv_output)-1;
 
 my @cnv_array_filtered;
 my $ra_cnv_array_filtered = \@cnv_array_filtered;
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
 while(my $m <= $length){
 	my @cnv_array_splie = @$ra_ind_sv_output[$m..$length];
 	my $ra_cnv_array_splice = \@cnv_array_splice;
@@ -50,9 +47,7 @@ while(my $m <= $length){
 	$m = $m + $ra_output -> [0];
 	push @$ra_cnv_array_filtered, $ra_output->[1];
 }
-<<<<<<< HEAD
 =head
-=======
 
 =for comment
 >>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
@@ -86,7 +81,6 @@ for my $i(0..$length){
 close $ind_sv_file;
 =cut
 
-<<<<<<< HEAD
 if ($#s != $length) {
 	die("the length is note equal\n");
 }
@@ -97,7 +91,6 @@ for my $i(0..$length){
 		else{next;}
 	}
 	close $filtered;
-=======
 
 
 
@@ -110,7 +103,6 @@ for my $i(0..$length){
 }
 	close $filtered;
 
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
 sub abstract_breakdancer{
 	my ($file)=@_;
 	my @ind_chr_cnv;
@@ -146,17 +138,14 @@ sub one_to_cnv_array_self{
 				case 2 {$n++; push @compare_array, $ra_array_self -> [$i];}
 				}
 			}
-<<<<<<< HEAD
 	@compare_array=(sort {$a->[5] <=> $b->[5]}@compare_array);
 	$output_breakpoint=$compare_array[$#compare_array];
 	push @$output, $n;
 	push @$output, $output_breakpoint;
 	return $output;
-=======
 	
 	push @$output, $n;
 	push @$output, []
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
 }
 
 
@@ -174,11 +163,8 @@ sub one_to_one{
 	return 0;
 }
 	
-<<<<<<< HEAD
 =head
-=======
 =for comment
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
 sub one_to_one{   # compare two breakpoint to output the CNVR
 	my ($ra_one,$ra_two)=@_;
 	my @one=@$ra_one;
@@ -199,8 +185,4 @@ sub one_to_one{   # compare two breakpoint to output the CNVR
 	else{print "there is a mistake";}
 	return $t;
 }
-<<<<<<< HEAD
 =cut
-=======
-=cut
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
