@@ -1,0 +1,22 @@
+Bioinformatics perl scripts
+27 April 2012
+Isaac Turner
+turner.isaac@gmail.com
+
+== Install ==
+
+0) git clone git://github.com/noporpoise/bioinf-perl.git
+
+1) Add the lib directory to perl's @INC path by adding the following lines to
+   your ~/.profile
+
+PERL5LIB=${PERL5LIB}:${HOME}/perl/lib/
+export PERL5LIB
+
+2) That's it!  Now run some scripts.  
+
+
+== Development ==
+
+The code is updated regularly.  Run 'git pull' from the bioinf-perl directory to
+update.  Get in touch if you have feature requests (turner.isaac@gmail.com).  
