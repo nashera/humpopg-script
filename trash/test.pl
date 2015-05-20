@@ -23,6 +23,12 @@ use warnings;
 #open(ERROR,">","/picb/humpopg7/zhangxi/test/error") || die $!;
 
 my $ra_array=[1,2,3,4,5];
+<<<<<<< HEAD
 my $t=scalar(@$ra_array);
+=======
+my $splice = $ra_array->[1..4];
+my $t=scalar(@$ra_array);
+print "@$splice\n";
+>>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
 print "$t\n@$ra_array\n";
 
