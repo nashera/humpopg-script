@@ -39,6 +39,10 @@ for my $i(0..$#all_ind){
 	my $sv_ind_file="$x/$all_ind[$i]";
 	open(my $sv_file,"<","$sv_ind_file") || die $!;
 	my $ra_sv_ind_output= abstract_breakdancer($sv_file);
+<<<<<<< HEAD
+=======
+	@$ra_sv_ind_output=( sort{$a->[1] <=> $b->[1] }@$ra_sv_ind_output); # sort the cnvr
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 	my $length=scalar(@$ra_sv_ind_output)-1;
 	for my $k(0..$length){
 		my $chr=$ra_sv_ind_output->[$k][0]+0;
@@ -71,3 +75,7 @@ sub abstract_breakdancer{
 	my $ra_ind_chr_cnv=\@ind_chr_cnv;
 	return $ra_ind_chr_cnv;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053

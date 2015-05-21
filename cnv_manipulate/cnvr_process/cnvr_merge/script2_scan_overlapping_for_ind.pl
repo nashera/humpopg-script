@@ -29,10 +29,34 @@ my $ra_ind_sv_output=abstract_breakdancer($ind_sv_file);
 my @ind_sv_output_modefied=@$ra_ind_sv_output;
 my $ra_ind_sv_output_modefied=\@ind_sv_output_modefied;
 my $length = scalar(@$ra_ind_sv_output)-1;
+<<<<<<< HEAD
+=======
+=head
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 my @s;
 my @null=();
 my $ra_null=\@null;
 my $n=0;
+<<<<<<< HEAD
+=======
+=cut
+my $ra_cnv_array_filtered;
+my $length = scalar(@$ra_ind_sv_output)-1;
+
+my @cnv_array_filtered;
+my $ra_cnv_array_filtered = \@cnv_array_filtered;
+while(my $m <= $length){
+	my @cnv_array_splie = @$ra_ind_sv_output[$m..$length];
+	my $ra_cnv_array_splice = \@cnv_array_splice;
+	my $ra_output = &one_to_cnv_array_self($cnv_array_splice -> $m, $ra_cnv_array_splice);
+	$m = $m + $ra_output -> [0];
+	push @$ra_cnv_array_filtered, $ra_output->[1];
+}
+=head
+
+=for comment
+>>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 for my $i(0..$length){
 	my $judge;
 	if($i == 0){
@@ -61,6 +85,10 @@ for my $i(0..$length){
 	push @s, $judge;
 }
 close $ind_sv_file;
+<<<<<<< HEAD
+=======
+=cut
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 
 if ($#s != $length) {
 	die("the length is note equal\n");
@@ -72,6 +100,21 @@ for my $i(0..$length){
 		else{next;}
 	}
 	close $filtered;
+<<<<<<< HEAD
+=======
+
+
+
+
+
+for my $i(0..$length){
+	if ( @{$ra_cnv_array_filtered->[$i]}){
+		print $filtered  "$ra_cnv_array_filtered->[$i][0]\t$ra_cnv_array_filtered->[$i][1]\t$ra_cnv_array_filtered->[$i][2]\t$ra_cnv_array_filtered->[$i][3]\t$ra_cnv_array_filtered->[$i][4]\t$ra_cnv_array_filtered->[$i][5]\n";	}	
+		else{next;}
+}
+	close $filtered;
+
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 sub abstract_breakdancer{
 	my ($file)=@_;
 	my @ind_chr_cnv;
@@ -89,6 +132,54 @@ sub abstract_breakdancer{
 	return $ra_ind_chr_cnv;
 }
 
+<<<<<<< HEAD
+=======
+
+sub one_to_cnv_array_self{
+	my ($ra_breakpoint, $ra_array_self)=@_;
+	my $l = scalar(@$ra_array_self)-1;
+	my $output;
+	my @compare_array;
+	my @output_breakpoint;
+	my $n = 0;
+	push @compare_array, $ra_breakpoint;
+	for my $i(0..$l){
+		my $signal = $one_to_one($ra_breakpoint, $ra_array_self -> [$i]);
+		use switch;
+			switch($signal){
+				case 0 {$n++; next;}
+				case 1 {last;}
+				case 2 {$n++; push @compare_array, $ra_array_self -> [$i];}
+				}
+			}
+	@compare_array=(sort {$a->[5] <=> $b->[5]}@compare_array);
+	$output_breakpoint=$compare_array[$#compare_array];
+	push @$output, $n;
+	push @$output, $output_breakpoint;
+	return $output;
+	
+	push @$output, $n;
+	push @$output, []
+}
+
+
+
+sub one_to_one{
+	my ($ra_one, $ra_two) = @_;
+	my @one = @$ra_one;
+	my @two = @$ra_two;
+	my $t;
+	if($one[1] = $two[1] and $one[2] = $two[2]){
+		$t = 0;}
+	elsif($two[2] < $one[1]){
+		$t = 1;}
+	else{$t = 2;}
+	return 0;
+}
+	
+=head
+=for comment
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 sub one_to_one{   # compare two breakpoint to output the CNVR
 	my ($ra_one,$ra_two)=@_;
 	my @one=@$ra_one;
@@ -109,3 +200,7 @@ sub one_to_one{   # compare two breakpoint to output the CNVR
 	else{print "there is a mistake";}
 	return $t;
 }
+<<<<<<< HEAD
+=======
+=cut
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053

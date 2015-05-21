@@ -1,5 +1,16 @@
 let g:netrw_dirhistmax  =10
+<<<<<<< HEAD
 let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/home/zhangxi/KuaiPan/document/script/bash_qsub'
 let g:netrw_dirhist_2='/home/zhangxi/KuaiPan/document/script/bash_qsub/cortex_bash'
 let g:netrw_dirhist_3='/home/zhangxi/KuaiPan/document/script/bash_qsub'
+=======
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/picb/humpopg2/zhangxi/snp_list'
+let g:netrw_dirhist_2='/picb/humpopg2/share_zhangxi/YRI'
+let g:netrw_dirhist_3='/home/zhangxi/.vim/c-support/codesnippets'
+let g:netrw_dirhist_4='/picb/humpopg7/zhangxi/test'
+let g:netrw_dirhist_5='/home/zhangxi/local/bin'
+let g:netrw_dirhist_6='/home/zhangxi/local'
+let g:netrw_dirhist_7='/home/zhangxi'
+>>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
