@@ -25,19 +25,16 @@ use warnings;
 my ($sv_ind,$sv_ind_filtered)=@ARGV;
 open(my $ind_sv_file,"<","$sv_ind") || die $!;
 open(my $filtered,">","$sv_ind_filtered") || die $!;
-my $ra_ind_sv_output=abstract_breakdancer($ind_sv_file);
+my $ra_ind_sv_output = &abstract_breakdancer($ind_sv_file);
 my @ind_sv_output_modefied=@$ra_ind_sv_output;
 my $ra_ind_sv_output_modefied=\@ind_sv_output_modefied;
 my $length = scalar(@$ra_ind_sv_output)-1;
 
 =head
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 my @s;
 my @null=();
 my $ra_null=\@null;
 my $n=0;
-<<<<<<< HEAD
-=======
 =cut
 
 my $ra_cnv_array_filtered;
@@ -83,8 +80,6 @@ for my $i(0..$length){
 	push @s, $judge;
 }
 close $ind_sv_file;
-<<<<<<< HEAD
-=======
 =cut
 
 if ($#s != $length) {
@@ -169,9 +164,9 @@ sub one_to_one{
 	return 0;
 }
 	
+
 =head
 =for comment
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 sub one_to_one{   # compare two breakpoint to output the CNVR
 	my ($ra_one,$ra_two)=@_;
 	my @one=@$ra_one;
@@ -192,7 +187,4 @@ sub one_to_one{   # compare two breakpoint to output the CNVR
 	else{print "there is a mistake";}
 	return $t;
 }
-<<<<<<< HEAD
-=======
 =cut
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053

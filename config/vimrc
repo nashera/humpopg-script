@@ -1,10 +1,7 @@
 syntax on 
 "fejofjelfnohinlwhiofwjhlifnilbibljbjb
-<<<<<<< HEAD
 execute pathogen#infect()
-=======
 "execute pathogen#infect()
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 :filetype plugin on
 filetype plugin indent on
 set number
@@ -12,10 +9,7 @@ set nocompatible
 "let auto_save=5
 set autowriteall
 set autowrite
-<<<<<<< HEAD
-=======
 set autoread
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 ":au FocusLost *:wa
 set backspace=indent,eol,start
 set autoindent
