@@ -38,10 +38,9 @@ my $n=0;
 =cut
 
 my $ra_cnv_array_filtered;
-my $length = scalar(@$ra_ind_sv_output)-1;
 
 my @cnv_array_filtered;
-my $ra_cnv_array_filtered = \@cnv_array_filtered;
+$ra_cnv_array_filtered = \@cnv_array_filtered;
 while(my $m <= $length){
 	my @cnv_array_splie = @$ra_ind_sv_output[$m..$length];
 	my $ra_cnv_array_splice = \@cnv_array_splice;
