@@ -1,0 +1,120 @@
+alias ll='ls -l --color'
+alias vw='view'
+alias qsubp="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' "
+alias qsubfq="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' -l mem_free=10G -l mem_req=6G"
+alias qsubctx="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' -l mem_free=100G -l mem_req=80G"
+alias mansbcl="man /picb/humpopg2/zhangxi/usr/local/share/man/man1/sbcl.1"
+
+alias qsubw="qsub -cwd -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' "
+#alias qsub='qsub #
+alias ls='ls --color'
+alias la='ls -a'
+alias wgc='wget -c'
+alias ..='cd ..'
+alias ...='cd ../..'
+LS_COLORS="ow=01;92:di=01;92"
+export LS_COLORS
+alias ssh='ssh -t'
+alias sc='screen'
+alias pyshs='python -m SimpleHTTPServer'
+alias picard='java -Xmx4g -jar /home/zhangxi/software/picard-tools-1.126/picard.jar'
+export SBCL_HOME=/picb/humpopg2/zhangxi/usr/local/lib/sbcl
+alias rz='lrz'
+big="/picb/humpopg-bigdata"
+papgi="/picb/papgi-pgg"
+popg7="/picb/humpopg7"
+
+alias vim='vim -nX'
+alias c='clear'
+eval $(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib) 
+#alias java='java -Xmx1g'
+#alias javac='javac -J-Xmx1g'
+export _JAVA_OPTIONS="-Xmx1g"
+export JAVA_HOME=/picb/extprog/biopipeline/Linux-x86_64_exports/jdk1.7.0_04
+export CPLUS_INCLUDE_PATH=/picb/humpopg2/zhangxi/usr/local/include:/picb/ports/Linux26-x86-64-prefix/usr/include:$HOME/local/include:$CPLUS_INCLUDE_PATH
+export C_INCLUDE_PATH=/picb/humpopg2/zhangxi/usr/local/include:/picb/ports/Linux26-x86-64-prefix/usr/include:$HOME/local/include:$C_INCLUDE_PATH
+export LIBRARY_PATH=/picb/humpopg2/zhangxi/usr/local/lib:/picb/ports/Linux26-x86-64-prefix/usr/lib:$LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/zhangxi/work/curl-7.42.1/lib:/picb/humpopg2/zhangxi/usr/local/lib:/picb/ports/Linux26-x86-64-prefix/usr/lib:/home/zhangxi/local/lib64:$HOME/local/lib:/usr/lib:/usr/lib64:$LD_LIBRARY_PATH
+export PATH=/home/zhangxi/work/curl-7.42.1/bin:/picb/humpopg2/zhangxi/usr/local/bin:/picb/intprog/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:$JAVA_HOME/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin:$PATH
+export MANPATH=/home/zhangxi/work/curl-7.42.1/share/man:/picb/humpopg2/zhangxi/usr/local/ghc-7.10.1-binary/share/man:/picb/humpopg2/zhangxi/usr/local/R-3.1.2/share/man:/picb/humpopg2/zhangxi/usr/local/man:/picb/humpopg2/zhangxi/usr/local/share/man:$MANPATH
+export INFOPATH=/picb/humpopg2/zhangxi/usr/local/ghc-7.10.1-binary/share/doc:/picb/humpopg2/zhangxi/usr/local/man:$MANPATH
+#ANT_OPTS=
+export CLASSPATH=$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar 
+ACLOCAL="aclocal -I/picb/humpopg2/zhangxi/usr/local/share/aclocal/pkg.m4"
+alias ta='tmux attach'
+alias tn='tmux new -s'
+alias tl='tmux ls'
+alias tmux='TERM=xterm-256color tmux -2'
+alias tmux='tmux -2'
+if [ -e /usr/share/terminfo/x/xterm-256color ]; then
+#debian在/lib/terminfo/x/xterm-256color
+        export TERM='xterm-256color'
+		else
+		        export TERM='xterm-color'
+				fi
+#export PS1='[\u@\h \W]$'
+GREEN="\[\e[32;0m\]" 
+WHITE="\[\e[37;1m\]"
+BLACK="\[\e[30;1m\]"
+RED="\[\e[31;1m\]"
+YELLOW="\[\e[33;0m\]"
+BLUE="\[\e[34;1m\]"
+PURPLE="\[\e[35;1m\]"
+DARK_GREEN="\[\e[36;1m\]"
+CLEAR="\[\e[0m\]"
+
+
+_PWD_="\$(pwd)"
+_JOB_="jobs:\j"
+_FILECOUNT_="F:\$(/bin/ls -1 | /usr/bin/wc -l | /bin/sed 's: ::g')"
+_FACE_="\`if [ \$? = 0 ]; then echo \[\e[1\;35m\]^_^\[\e[0m\]; else echo \[\e[1\;31m\]\>_\<\[\e[0m\]; fi\`"
+_HISTORY_="\!"
+_DATE_="\$(/bin/date)"
+_CLOCK_="\t"
+_SIZE_="\$(/bin/ls -lah | /usr/bin/head -n 1 | /usr/bin/cut -d ' ' -f 2)"
+htn=`hostname`
+if echo "$htn" | egrep -q 'gate1' ;then
+	ssh node301
+	clear
+fi
+if echo "$htn" | egrep -q 'gate2' ;then
+	ssh node301
+	clear
+fi
+
+
+#RPROMPT=$(echo '%{\033[34m%}%D %T%{\033[m%}')  
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n%{\033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+#卐 %{\033[01;31m%}>%{\033[33m%}>%{\033[34m%}>%{\033[m%}  ')  
+#}}}
+#PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME%%.*}:${PWD/#$HOME/~}"; echo -ne "\007"'
+#PS1='\[\033[02;32m\]\u@\h\[\033[02;34m\] \w \$\[\033[00m\] '  
+
+#PS1="$GREEN($WHITE\u@\h$GREEN)-($WHITE$_JOB_$GREEN)-($WHITE$_HISTORY_$GREEN)-($WHITE\w$GREEN)\n($WHITE$_FILECOUNT_$GREEN)\\$ $CLEAR"
+export PS1="$PURPLE〖 $PURPLE\u@\h 〗  $GREEN$_PWD_
+$RED$ $WHITE>$BLUE>$YELLOW>  "
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+
+#RPROMPT=$(echo '%{\033[34m%}%D %T%{\033[m%}')  
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n%{\033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+#卐 %{\033[01;31m%}>%{\033[33m%}>%{\033[34m%}>%{\033[m%}  ')  
+#}}}  
+#PAGER='less -X -M'
+#src-hilite-lesspipe.sh 文件的路径在不同的系统中可能会不一样
+#export LESSOPEN="| /home/zhangxi/local/src-highlight-3.1.7/bin/src-hilite-lesspipe.sh %s"
+export MARKPATH=$HOME/.marks
+function jump {
+	cd -P "$MARKPATH/$1" 2>/dev/null || echo "No such mark: $1"
+}
+function mark {
+mkdir -p "$MARKPATH"; ln -s "$(pwd)" "$MARKPATH/$1"
+}
+
+function unmark {
+	rm -i "$MARKPATH/$1"
+}
+
+
+function marks {
+	ls -l "$MARKPATH" | sed 's/ / /g' | cut -d' ' -f9- | sed 's/ -/\t-/g' && echo
+}

@@ -1,0 +1,180 @@
+# Created by newuser for 5.0.5
+alias sb4='ssh biocomp4'
+alias wgc='wget -c'
+alias qsub='qsub -wd /home/zhangxi/Document/LOG'
+big="/picb/humpopg-bigdata"
+alias pyshs='python -m SimpleHTTPServer'
+alias qsubp="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' "
+alias qsubfq="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' -l mem_free=10G -l mem_req=6G"
+alias qsubctx="qsub -wd /home/zhangxi/Document/LOG -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' -l mem_free=100G -l mem_req=80G"
+alias qsubw="qsub -cwd -v PATH='/home/zhangxi/local/byobu-5.87/bin:/home/zhangxi/local/abyss-1.3.7-openmpi-1.6.5/bin:/home/zhangxi/local/bin:/picb/extprog/biopipeline/Linux-x86_64_exports/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:/usr/bin' -v LD_LIBRARY_PATH='/home/zhangxi/local/lib64:/home/zhangxi/local/lib:/usr/lib:/usr/lib64' "
+alias shs3='ssh humpopg-svr3'
+alias vim='vim -nX'
+alias vi='vim'
+alias les='less -S'
+alias rmf='rm -rf'
+#alias java='java -Xmx15g`'
+alias -s pl=vim
+alias la='ls -a'
+alias -s tst=vim 
+alias ls='ls --color'
+LS_COLORS="ow=01;92:di=01;92"
+export LS_COLORS
+alias lsc='ls --color=never'
+alias les='less -S'
+alias ll='ls -al'
+alias lh='ll -h'
+alias -s c=vim
+alias rm="rm -i"
+alias rz='lrz'
+alias -s cpp=vim
+alias grep="grep --color=auto"
+autoload -U colors && colors
+###########################################################        
+# Options for Zsh
+
+export HISTFILE=~/.zsh_history
+export HISTSIZE=50000
+export SAVEHIST=50000
+#autoload -U compinit compinit
+#setopt autopushd pushdminus pushdsilent pushdtohome
+setopt autocd
+setopt cdablevars
+setopt ignoreeof
+setopt interactivecomments
+setopt nobanghist
+setopt noclobber
+setopt HIST_REDUCE_BLANKS
+setopt HIST_IGNORE_SPACE
+setopt SH_WORD_SPLIT
+setopt nohup
+_git_repo_name() {
+	  gittopdir=$(git rev-parse --git-dir 2> /dev/null)
+	    if [[ "foo$gittopdir" == "foo.git" ]]; then
+			    echo `basename $(pwd)`
+				  elif [[ "foo$gittopdir" != "foo" ]]; then
+					      echo `dirname $gittopdir | xargs basename`
+						    fi
+						}
+						_git_branch_name() {
+							  git branch 2>/dev/null | awk '/^\*/ { print $2 }'
+						  }
+						  _git_is_dirty() {
+							    git diff --quiet 2> /dev/null || echo '*'
+							}
+							
+							setopt prompt_subst 
+#RPROMPT='$(_git_repo_name) $(_git_branch_name) $(_git_is_dirty)'## Yay! High voltage and arrows!
+#命令行提示符
+RPROMPT=$(echo '%{\033[34m%}%D %T%{\033[m%}')  
+PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n%{\033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+$ %{\033[01;31m%}>%{\033[33m%}>%{\033[34m%}>%{\033[m%}  ')  
+#}}}  
+case $TERM in (*xterm*|*rxvt*|(dt|k|E)term) 
+	 precmd () { print -Pn "\e]0;%n@%M//%/\a" }
+	  preexec () { print -Pn "\e]0;%n@%M//%/\ $1\a" }  
+	   ;;  
+	   esac
+	   #}}}  
+#ZSH_THEME_GIT_PROMPT_PREFIX="%{$reset_color%}%{$fg[blue]%}"
+#ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
+#ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[yellow]%}⚡%{$reset_color%}"
+#ZSH_THEME_GIT_PROMPT_CLEAN=""
+#PROMPT='%{$fg[yellow]%}%*%{$reset_color%} %{$fg[magenta]%}%n%{$reset_color%} at %{$fg[green]%}%~%{$reset_color%} $(git_prompt_info)say%{$fg[cyan]%}:
+#$ %{$reset_color%}'
+## PS1 and PS2
+#export PS1="[%m]%d%%"
+#PROMPT="[%n@%m %~]%# "
+# Vars used later on by Zsh
+export EDITOR="nano"
+export LD_LIBRARY_PATH=/picb/extprog/biopipelibe/Linux-x86_64_exports/gcc-4.6.1/bin:$LD_LIBRARY_PATH
+export BROWSER=links
+export XTERM="aterm +sb -geometry 80x29 -fg black -bg lightgoldenrodyellow -fn -xos4-terminus-medium-*-normal-*-14-*-*-*-*-*-iso8859-15"
+export PYTHONSTARUP=~/.pyhonstartup
+
+#
+###################################################################
+## Stuff to make my life easier
+#
+## allow approximate
+#zstyle ':completion:*' completer _complete _match _approximate
+#zstyle ':completion:*:match:*' original only
+#zstyle ':completion:*:approximate:*' max-errors 1 numeric
+#
+## tab completion for PID :D
+#zstyle ':completion:*:*:kill:*' menu yes select
+#zstyle ':completion:*:kill:*' force-list always
+#
+#zstyle ':completion:*:cd:*' ignore-parents parent pwd
+#
+## useful for path editing — backward-delete-word, but with / as additional delimiter
+#backward-delete-to-slash () {
+#  local WORDCHARS=${WORDCHARS//\//}
+#    zle .backward-delete-word
+#    }
+#    zle -N backward-delete-to-slash
+#
+#    ##################################################################
+#    # Key bindings
+#    # http://mundy.yazzy.org/unix/zsh.php
+#    # http://www.zsh.org/mla/users/2000/msg00727.html
+#
+#    typeset -g -A key
+#    bindkey '^?' backward-delete-char
+#    bindkey '^[[1~' beginning-of-line
+#    bindkey '^[[5~' up-line-or-history
+#    bindkey '^[[3~' delete-char
+#    bindkey '^[[4~' end-of-line
+#    bindkey '^[[6~' down-line-or-history
+#    bindkey '^[[A' up-line-or-search
+#    bindkey '^[[D' backward-char
+#    bindkey '^[[B' down-line-or-search
+#    bindkey '^[[C' forward-char 
+#    bindkey '^[w' backward-delete-to-slash
+#    # completion in the middle of a line
+#    bindkey '^i' expand-or-complete-prefix
+#
+    ##################################################################
+    # My aliases
+
+    # Set up auto extension stuff
+    alias -s gz='tar -xzvf'
+    alias -s bz2='tar -xjvf'
+    alias -s java=$EDITOR
+    alias -s txt=$EDITOR
+    alias -s PKGBUILD=$EDITOR
+
+#    # Normal aliases
+#    alias ls='ls --color=auto -F'
+#    alias lsd='ls -ld *(-/DN)'
+#    alias lsa='ls -ld .*'
+#    alias f='find |grep'
+alias c="clear"
+alias ..='cd ..'
+alias ...='cd ../..'
+#    alias nicotine='/home/paul/downloads/nicotine-1.0.8rc1/nicotine'
+#    alias ppp-on='sudo /usr/sbin/ppp-on'
+#    alias ppp-off='sudo /usr/sbin/ppp-off'
+#    alias firestarter='sudo su -c firestarter'
+#    alias mpg123='mpg123 -o oss'
+#    alias mpg321='mpg123 -o oss'
+#    alias vba='/home/paul/downloads/VisualBoyAdvance -f 4'
+#    alias hist="grep '$1' /home/paul/.zsh_history"
+#    alias irssi="irssi -c irc.freenode.net -n yyz"
+#    alias mem="free -m"
+#    alias msn="tmsnc -l hutchy@subdimension.com"
+#
+    # command L equivalent to command |less
+#    alias -g L='|less' 
+#
+#    # command S equivalent to command &> /dev/null &
+#    alias -g S='&> /dev/null &'
+
+# add function
+
+
+alias matlab='matlab -nodisplay'
+#PAGER='less -X -M'
+#src-hilite-lesspipe.sh 文件的路径在不同的系统中可能会不一样
+#export LESSOPEN="| /home/zhangxi/local/src-highlight-3.1.7/bin/src-hilite-lesspipe.sh %s"
+
