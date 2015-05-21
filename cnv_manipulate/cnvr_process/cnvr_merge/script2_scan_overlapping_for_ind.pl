@@ -29,8 +29,7 @@ my $ra_ind_sv_output=abstract_breakdancer($ind_sv_file);
 my @ind_sv_output_modefied=@$ra_ind_sv_output;
 my $ra_ind_sv_output_modefied=\@ind_sv_output_modefied;
 my $length = scalar(@$ra_ind_sv_output)-1;
-<<<<<<< HEAD
-=======
+
 =head
 >>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 my @s;
@@ -40,6 +39,7 @@ my $n=0;
 <<<<<<< HEAD
 =======
 =cut
+
 my $ra_cnv_array_filtered;
 my $length = scalar(@$ra_ind_sv_output)-1;
 
@@ -55,8 +55,6 @@ while(my $m <= $length){
 =head
 
 =for comment
->>>>>>> 98706a71c456e50d8f6ac969d10996e119cea6db
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 for my $i(0..$length){
 	my $judge;
 	if($i == 0){
@@ -88,7 +86,6 @@ close $ind_sv_file;
 <<<<<<< HEAD
 =======
 =cut
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 
 if ($#s != $length) {
 	die("the length is note equal\n");
@@ -100,8 +97,6 @@ for my $i(0..$length){
 		else{next;}
 	}
 	close $filtered;
-<<<<<<< HEAD
-=======
 
 
 
@@ -114,7 +109,6 @@ for my $i(0..$length){
 }
 	close $filtered;
 
->>>>>>> 22d5737d6cf4914a8a206abc6cf0804472808053
 sub abstract_breakdancer{
 	my ($file)=@_;
 	my @ind_chr_cnv;
@@ -132,8 +126,6 @@ sub abstract_breakdancer{
 	return $ra_ind_chr_cnv;
 }
 
-<<<<<<< HEAD
-=======
 
 sub one_to_cnv_array_self{
 	my ($ra_breakpoint, $ra_array_self)=@_;
