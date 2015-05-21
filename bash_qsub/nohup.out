@@ -1,0 +1,742 @@
+WGC021954D
+WGC021954D.chr11.bqsr.bam
+[Sun Feb  8 04:22:37 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr11.bqsr.bam
+[Sun Feb  8 06:02:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 06:02:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 33114
+[Sun Feb  8 06:02:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 33114 is still there...
+[Sun Feb  8 06:02:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 33114 ...
+[Sun Feb  8 06:02:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 33114
+WGC021954D
+WGC021954D.chr15.bqsr.bam
+[Sun Feb  8 06:17:56 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr15.bqsr.bam
+[Sun Feb  8 07:05:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 07:05:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 41086
+[Sun Feb  8 07:05:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 41086 is still there...
+[Sun Feb  8 07:05:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 41086 ...
+[Sun Feb  8 07:05:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 41086
+WGC021954D
+WGC021954D.chr17.bqsr.bam
+[Sun Feb  8 07:15:23 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr17.bqsr.bam
+[Sun Feb  8 08:09:58 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 08:09:58 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 44708
+[Sun Feb  8 08:10:00 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 44708 is still there...
+[Sun Feb  8 08:10:00 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 44708 ...
+[Sun Feb  8 08:10:00 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 44708
+WGC021954D
+WGC021954D.chr18.bqsr.bam
+[Sun Feb  8 08:19:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr18.bqsr.bam
+[Sun Feb  8 08:53:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 08:53:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 48351
+[Sun Feb  8 08:53:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 48351 is still there...
+[Sun Feb  8 08:53:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 48351 ...
+[Sun Feb  8 08:53:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 48351
+WGC021954D
+WGC021954D.chr20.bqsr.bam
+[Sun Feb  8 08:57:44 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr20.bqsr.bam
+[Sun Feb  8 09:20:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 09:20:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 50594
+[Sun Feb  8 09:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 50594 is still there...
+[Sun Feb  8 09:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 50594 ...
+[Sun Feb  8 09:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 50594
+WGC021954D
+WGC021954D.chr21.bqsr.bam
+[Sun Feb  8 09:26:54 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr21.bqsr.bam
+[Sun Feb  8 09:45:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 09:45:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 52209
+[Sun Feb  8 09:45:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 52209 is still there...
+[Sun Feb  8 09:45:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 52209 ...
+[Sun Feb  8 09:45:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 52209
+WGC021954D
+WGC021954D.chr22.bqsr.bam
+[Sun Feb  8 09:48:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr22.bqsr.bam
+[Sun Feb  8 10:07:44 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 10:07:44 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 53498
+[Sun Feb  8 10:07:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 53498 is still there...
+[Sun Feb  8 10:07:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 53498 ...
+[Sun Feb  8 10:07:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 53498
+WGC021954D
+WGC021954D.chr3.bqsr.bam
+[Sun Feb  8 10:12:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr3.bqsr.bam
+[Sun Feb  8 13:21:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 13:21:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 55398
+[Sun Feb  8 13:21:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 55398 is still there...
+[Sun Feb  8 13:21:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 55398 ...
+[Sun Feb  8 13:21:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 55398
+WGC021954D
+WGC021954D.chr6.bqsr.bam
+[Sun Feb  8 13:53:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr6.bqsr.bam
+[Sun Feb  8 15:29:28 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 15:29:28 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 2000
+[Sun Feb  8 15:29:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 2000 is still there...
+[Sun Feb  8 15:29:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 2000 ...
+[Sun Feb  8 15:29:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 2000
+WGC021954D
+WGC021954D.chr7.bqsr.bam
+[Sun Feb  8 15:51:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr7.bqsr.bam
+[Sun Feb  8 16:47:47 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 16:47:47 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 8752
+[Sun Feb  8 16:47:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 8752 is still there...
+[Sun Feb  8 16:47:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 8752 ...
+[Sun Feb  8 16:47:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 8752
+WGC021954D
+WGC021954D.chr8.bqsr.bam
+[Sun Feb  8 16:55:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr8.bqsr.bam
+[Sun Feb  8 17:47:33 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 17:47:33 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 12400
+[Sun Feb  8 17:47:35 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 12400 is still there...
+[Sun Feb  8 17:47:35 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 12400 ...
+[Sun Feb  8 17:47:35 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 12400
+WGC021954D
+WGC021954D.chr9.bqsr.bam
+[Sun Feb  8 17:57:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chr9.bqsr.bam
+[Sun Feb  8 18:45:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 18:45:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 15256
+[Sun Feb  8 18:45:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 15256 is still there...
+[Sun Feb  8 18:45:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 15256 ...
+[Sun Feb  8 18:45:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 15256
+WGC021954D
+WGC021954D.chrMT.bqsr.bam
+[Sun Feb  8 18:54:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chrMT.bqsr.bam
+[Sun Feb  8 18:54:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 18:54:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 17994
+[Sun Feb  8 18:54:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 17994 is still there...
+[Sun Feb  8 18:54:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 17994 ...
+[Sun Feb  8 18:54:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 17994
+WGC021954D
+WGC021954D.chrX.bqsr.bam
+[Sun Feb  8 18:55:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chrX.bqsr.bam
+[Sun Feb  8 19:19:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 19:19:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 18034
+[Sun Feb  8 19:19:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 18034 is still there...
+[Sun Feb  8 19:19:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 18034 ...
+[Sun Feb  8 19:19:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 18034
+WGC021954D
+WGC021954D.chrY.bqsr.bam
+[Sun Feb  8 19:24:39 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021954D/WGC021954D.chrY.bqsr.bam
+[Sun Feb  8 19:36:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 19:36:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 19471
+[Sun Feb  8 19:36:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 19471 is still there...
+[Sun Feb  8 19:36:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 19471 ...
+[Sun Feb  8 19:36:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 19471
+WGC021956D
+WGC021956D.chr10.bqsr.bam
+[Sun Feb  8 19:38:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr10.bqsr.bam
+[Sun Feb  8 21:07:43 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 21:07:43 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 20350
+[Sun Feb  8 21:07:45 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 20350 is still there...
+[Sun Feb  8 21:07:45 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 20350 ...
+[Sun Feb  8 21:07:45 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 20350
+WGC021956D
+WGC021956D.chr11.bqsr.bam
+[Sun Feb  8 21:17:44 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr11.bqsr.bam
+[Sun Feb  8 22:09:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 22:09:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 25689
+[Sun Feb  8 22:09:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 25689 is still there...
+[Sun Feb  8 22:09:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 25689 ...
+[Sun Feb  8 22:09:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 25689
+WGC021956D
+WGC021956D.chr12.bqsr.bam
+[Sun Feb  8 22:20:23 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr12.bqsr.bam
+[Sun Feb  8 23:12:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 23:12:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 29039
+[Sun Feb  8 23:12:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 29039 is still there...
+[Sun Feb  8 23:12:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 29039 ...
+[Sun Feb  8 23:12:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 29039
+WGC021956D
+WGC021956D.chr13.bqsr.bam
+[Sun Feb  8 23:22:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr13.bqsr.bam
+[Sun Feb  8 23:58:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Sun Feb  8 23:58:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 32461
+[Sun Feb  8 23:58:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 32461 is still there...
+[Sun Feb  8 23:58:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 32461 ...
+[Sun Feb  8 23:58:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 32461
+WGC021956D
+WGC021956D.chr14.bqsr.bam
+[Mon Feb  9 00:06:28 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr14.bqsr.bam
+[Mon Feb  9 00:38:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 00:38:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 34730
+[Mon Feb  9 00:38:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 34730 is still there...
+[Mon Feb  9 00:38:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 34730 ...
+[Mon Feb  9 00:38:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 34730
+WGC021956D
+WGC021956D.chr16.bqsr.bam
+[Mon Feb  9 00:44:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr16.bqsr.bam
+[Mon Feb  9 01:17:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 01:17:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 36793
+[Mon Feb  9 01:17:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 36793 is still there...
+[Mon Feb  9 01:17:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 36793 ...
+[Mon Feb  9 01:17:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 36793
+WGC021956D
+WGC021956D.chr19.bqsr.bam
+[Mon Feb  9 01:22:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr19.bqsr.bam
+[Mon Feb  9 01:42:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 01:42:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 38911
+[Mon Feb  9 01:42:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 38911 is still there...
+[Mon Feb  9 01:42:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 38911 ...
+[Mon Feb  9 01:42:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 38911
+WGC021956D
+WGC021956D.chr1.bqsr.bam
+[Mon Feb  9 01:45:18 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr1.bqsr.bam
+[Mon Feb  9 03:05:36 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 03:05:36 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 40177
+[Mon Feb  9 03:05:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 40177 is still there...
+[Mon Feb  9 03:05:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 40177 ...
+[Mon Feb  9 03:05:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 40177
+WGC021956D
+WGC021956D.chr21.bqsr.bam
+[Mon Feb  9 03:18:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr21.bqsr.bam
+[Mon Feb  9 03:32:36 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 03:32:36 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 45672
+[Mon Feb  9 03:32:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 45672 is still there...
+[Mon Feb  9 03:32:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 45672 ...
+[Mon Feb  9 03:32:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 45672
+WGC021956D
+WGC021956D.chr2.bqsr.bam
+[Mon Feb  9 03:35:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr2.bqsr.bam
+[Mon Feb  9 04:58:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 04:58:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 46520
+[Mon Feb  9 04:58:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 46520 is still there...
+[Mon Feb  9 04:58:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 46520 ...
+[Mon Feb  9 04:58:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 46520
+WGC021956D
+WGC021956D.chr5.bqsr.bam
+[Mon Feb  9 05:12:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr5.bqsr.bam
+[Mon Feb  9 06:06:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 06:06:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 51800
+[Mon Feb  9 06:06:42 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 51800 is still there...
+[Mon Feb  9 06:06:42 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 51800 ...
+[Mon Feb  9 06:06:42 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 51800
+WGC021956D
+WGC021956D.chr7.bqsr.bam
+[Mon Feb  9 06:16:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr7.bqsr.bam
+[Mon Feb  9 07:08:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 07:08:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 55172
+[Mon Feb  9 07:08:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 55172 is still there...
+[Mon Feb  9 07:08:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 55172 ...
+[Mon Feb  9 07:08:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 55172
+WGC021956D
+WGC021956D.chr8.bqsr.bam
+[Mon Feb  9 07:16:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr8.bqsr.bam
+[Mon Feb  9 08:03:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 08:03:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 58220
+[Mon Feb  9 08:03:21 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 58220 is still there...
+[Mon Feb  9 08:03:21 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 58220 ...
+[Mon Feb  9 08:03:21 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 58220
+WGC021956D
+WGC021956D.chr9.bqsr.bam
+[Mon Feb  9 08:12:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021956D/WGC021956D.chr9.bqsr.bam
+[Mon Feb  9 08:50:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 08:50:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 61235
+[Mon Feb  9 08:50:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 61235 is still there...
+[Mon Feb  9 08:50:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 61235 ...
+[Mon Feb  9 08:50:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 61235
+WGC021958D
+WGC021958D.chr11.bqsr.bam
+[Mon Feb  9 08:56:41 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr11.bqsr.bam
+[Mon Feb  9 09:42:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 09:42:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 63403
+[Mon Feb  9 09:42:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 63403 is still there...
+[Mon Feb  9 09:42:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 63403 ...
+[Mon Feb  9 09:42:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 63403
+WGC021958D
+WGC021958D.chr13.bqsr.bam
+[Mon Feb  9 09:50:43 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr13.bqsr.bam
+[Mon Feb  9 10:24:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 10:24:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 1341
+[Mon Feb  9 10:24:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 1341 is still there...
+[Mon Feb  9 10:24:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 1341 ...
+[Mon Feb  9 10:24:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 1341
+WGC021958D
+WGC021958D.chr16.bqsr.bam
+[Mon Feb  9 10:29:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr16.bqsr.bam
+[Mon Feb  9 11:01:23 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 11:01:23 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 3757
+[Mon Feb  9 11:01:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 3757 is still there...
+[Mon Feb  9 11:01:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 3757 ...
+[Mon Feb  9 11:01:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 3757
+WGC021958D
+WGC021958D.chr17.bqsr.bam
+[Mon Feb  9 11:05:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr17.bqsr.bam
+[Mon Feb  9 11:44:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 11:44:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 5781
+[Mon Feb  9 11:44:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 5781 is still there...
+[Mon Feb  9 11:44:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 5781 ...
+[Mon Feb  9 11:44:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 5781
+WGC021958D
+WGC021958D.chr1.bqsr.bam
+[Mon Feb  9 12:00:36 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr1.bqsr.bam
+[Mon Feb  9 16:49:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 16:49:17 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 8952
+[Mon Feb  9 16:49:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 8952 is still there...
+[Mon Feb  9 16:49:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 8952 ...
+[Mon Feb  9 16:49:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 8952
+WGC021958D
+WGC021958D.chr22.bqsr.bam
+[Mon Feb  9 17:10:05 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr22.bqsr.bam
+[Mon Feb  9 17:22:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 17:22:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 26610
+[Mon Feb  9 17:22:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 26610 is still there...
+[Mon Feb  9 17:22:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 26610 ...
+[Mon Feb  9 17:22:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 26610
+WGC021958D
+WGC021958D.chr2.bqsr.bam
+[Mon Feb  9 17:25:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr2.bqsr.bam
+[Mon Feb  9 18:50:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 18:50:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 27243
+[Mon Feb  9 18:50:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 27243 is still there...
+[Mon Feb  9 18:50:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 27243 ...
+[Mon Feb  9 18:50:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 27243
+WGC021958D
+WGC021958D.chr4.bqsr.bam
+[Mon Feb  9 19:07:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr4.bqsr.bam
+[Mon Feb  9 23:15:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Mon Feb  9 23:15:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 50763
+[Mon Feb  9 23:15:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 50763 is still there...
+[Mon Feb  9 23:15:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 50763 ...
+[Mon Feb  9 23:15:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 50763
+WGC021958D
+WGC021958D.chr5.bqsr.bam
+[Tue Feb 10 00:23:23 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr5.bqsr.bam
+[Tue Feb 10 01:32:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 01:32:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 1541
+[Tue Feb 10 01:32:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 1541 is still there...
+[Tue Feb 10 01:32:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 1541 ...
+[Tue Feb 10 01:32:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 1541
+WGC021958D
+WGC021958D.chr6.bqsr.bam
+[Tue Feb 10 01:42:38 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr6.bqsr.bam
+[Tue Feb 10 02:47:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 02:47:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 4778
+[Tue Feb 10 02:47:54 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 4778 is still there...
+[Tue Feb 10 02:47:54 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 4778 ...
+[Tue Feb 10 02:47:54 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 4778
+WGC021958D
+WGC021958D.chr7.bqsr.bam
+[Tue Feb 10 02:55:21 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chr7.bqsr.bam
+[Tue Feb 10 03:47:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 03:47:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 7081
+[Tue Feb 10 03:47:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 7081 is still there...
+[Tue Feb 10 03:47:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 7081 ...
+[Tue Feb 10 03:47:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 7081
+WGC021958D
+WGC021958D.chrMT.bqsr.bam
+[Tue Feb 10 03:54:41 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chrMT.bqsr.bam
+[Tue Feb 10 03:55:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 03:55:09 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 13337
+[Tue Feb 10 03:55:11 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 13337 is still there...
+[Tue Feb 10 03:55:11 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 13337 ...
+[Tue Feb 10 03:55:11 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 13337
+WGC021958D
+WGC021958D.chrX.bqsr.bam
+[Tue Feb 10 03:55:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021958D/WGC021958D.chrX.bqsr.bam
+[Tue Feb 10 04:32:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 04:32:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 13353
+[Tue Feb 10 04:32:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 13353 is still there...
+[Tue Feb 10 04:32:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 13353 ...
+[Tue Feb 10 04:32:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 13353
+WGC021959D
+WGC021959D.chr11.bqsr.bam
+[Tue Feb 10 04:39:41 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr11.bqsr.bam
+[Tue Feb 10 05:17:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 05:17:49 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 14787
+[Tue Feb 10 05:17:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 14787 is still there...
+[Tue Feb 10 05:17:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 14787 ...
+[Tue Feb 10 05:17:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 14787
+WGC021959D
+WGC021959D.chr12.bqsr.bam
+[Tue Feb 10 05:25:41 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr12.bqsr.bam
+[Tue Feb 10 05:57:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 05:57:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 16326
+[Tue Feb 10 05:57:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 16326 is still there...
+[Tue Feb 10 05:57:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 16326 ...
+[Tue Feb 10 05:57:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 16326
+WGC021959D
+WGC021959D.chr13.bqsr.bam
+[Tue Feb 10 06:06:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr13.bqsr.bam
+[Tue Feb 10 06:46:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 06:46:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 17672
+[Tue Feb 10 06:46:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 17672 is still there...
+[Tue Feb 10 06:46:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 17672 ...
+[Tue Feb 10 06:46:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 17672
+WGC021959D
+WGC021959D.chr20.bqsr.bam
+[Tue Feb 10 06:52:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr20.bqsr.bam
+[Tue Feb 10 07:16:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 07:16:12 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 19120
+[Tue Feb 10 07:16:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 19120 is still there...
+[Tue Feb 10 07:16:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 19120 ...
+[Tue Feb 10 07:16:14 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 19120
+WGC021959D
+WGC021959D.chr2.bqsr.bam
+[Tue Feb 10 07:23:52 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr2.bqsr.bam
+[Tue Feb 10 09:06:11 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 09:06:11 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 20143
+[Tue Feb 10 09:06:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 20143 is still there...
+[Tue Feb 10 09:06:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 20143 ...
+[Tue Feb 10 09:06:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 20143
+WGC021959D
+WGC021959D.chr4.bqsr.bam
+[Tue Feb 10 09:20:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr4.bqsr.bam
+[Tue Feb 10 10:21:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 10:21:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 27315
+[Tue Feb 10 10:21:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 27315 is still there...
+[Tue Feb 10 10:21:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 27315 ...
+[Tue Feb 10 10:21:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 27315
+WGC021959D
+WGC021959D.chr5.bqsr.bam
+[Tue Feb 10 10:32:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr5.bqsr.bam
+[Tue Feb 10 11:17:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 11:17:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 32557
+[Tue Feb 10 11:17:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 32557 is still there...
+[Tue Feb 10 11:17:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 32557 ...
+[Tue Feb 10 11:17:10 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 32557
+WGC021959D
+WGC021959D.chr6.bqsr.bam
+[Tue Feb 10 11:26:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chr6.bqsr.bam
+[Tue Feb 10 12:11:05 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 12:11:05 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 37168
+[Tue Feb 10 12:11:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 37168 is still there...
+[Tue Feb 10 12:11:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 37168 ...
+[Tue Feb 10 12:11:07 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 37168
+WGC021959D
+WGC021959D.chrMT.bqsr.bam
+[Tue Feb 10 12:18:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021959D/WGC021959D.chrMT.bqsr.bam
+[Tue Feb 10 12:18:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 12:18:46 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 41069
+[Tue Feb 10 12:18:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 41069 is still there...
+[Tue Feb 10 12:18:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 41069 ...
+[Tue Feb 10 12:18:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 41069
+WGC021960D
+WGC021960D.chr10.bqsr.bam
+[Tue Feb 10 12:18:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr10.bqsr.bam
+[Tue Feb 10 13:00:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 13:00:59 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 41100
+[Tue Feb 10 13:01:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 41100 is still there...
+[Tue Feb 10 13:01:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 41100 ...
+[Tue Feb 10 13:01:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 41100
+WGC021960D
+WGC021960D.chr11.bqsr.bam
+[Tue Feb 10 13:07:37 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr11.bqsr.bam
+[Tue Feb 10 14:57:35 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 14:57:35 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 44670
+[Tue Feb 10 14:57:37 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 44670 is still there...
+[Tue Feb 10 14:57:37 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 44670 ...
+[Tue Feb 10 14:57:37 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 44670
+WGC021960D
+WGC021960D.chr12.bqsr.bam
+[Tue Feb 10 15:16:20 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr12.bqsr.bam
+[Tue Feb 10 16:08:22 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 16:08:22 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 58275
+[Tue Feb 10 16:08:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 58275 is still there...
+[Tue Feb 10 16:08:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 58275 ...
+[Tue Feb 10 16:08:25 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 58275
+WGC021960D
+WGC021960D.chr13.bqsr.bam
+[Tue Feb 10 16:21:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr13.bqsr.bam
+[Tue Feb 10 17:17:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 17:17:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 61788
+[Tue Feb 10 17:17:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 61788 is still there...
+[Tue Feb 10 17:17:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 61788 ...
+[Tue Feb 10 17:17:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 61788
+WGC021960D
+WGC021960D.chr16.bqsr.bam
+[Tue Feb 10 17:56:39 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr16.bqsr.bam
+[Tue Feb 10 18:18:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 18:18:32 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 4933
+[Tue Feb 10 18:18:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 4933 is still there...
+[Tue Feb 10 18:18:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 4933 ...
+[Tue Feb 10 18:18:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 4933
+WGC021960D
+WGC021960D.chr18.bqsr.bam
+[Tue Feb 10 18:23:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr18.bqsr.bam
+[Tue Feb 10 18:45:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 18:45:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 7318
+[Tue Feb 10 18:45:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 7318 is still there...
+[Tue Feb 10 18:45:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 7318 ...
+[Tue Feb 10 18:45:31 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 7318
+WGC021960D
+WGC021960D.chr19.bqsr.bam
+[Tue Feb 10 18:48:34 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr19.bqsr.bam
+[Tue Feb 10 19:03:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 19:03:48 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 8985
+[Tue Feb 10 19:03:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 8985 is still there...
+[Tue Feb 10 19:03:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 8985 ...
+[Tue Feb 10 19:03:50 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 8985
+WGC021960D
+WGC021960D.chr20.bqsr.bam
+[Tue Feb 10 19:07:39 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr20.bqsr.bam
+[Tue Feb 10 19:20:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 19:20:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 10057
+[Tue Feb 10 19:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 10057 is still there...
+[Tue Feb 10 19:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 10057 ...
+[Tue Feb 10 19:20:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 10057
+WGC021960D
+WGC021960D.chr21.bqsr.bam
+[Tue Feb 10 19:24:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr21.bqsr.bam
+[Tue Feb 10 19:37:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 19:37:01 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 11727
+[Tue Feb 10 19:37:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 11727 is still there...
+[Tue Feb 10 19:37:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 11727 ...
+[Tue Feb 10 19:37:03 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 11727
+WGC021960D
+WGC021960D.chr2.bqsr.bam
+[Tue Feb 10 19:38:42 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr2.bqsr.bam
+[Tue Feb 10 20:41:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 20:41:51 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 12735
+[Tue Feb 10 20:41:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 12735 is still there...
+[Tue Feb 10 20:41:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 12735 ...
+[Tue Feb 10 20:41:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 12735
+WGC021960D
+WGC021960D.chr5.bqsr.bam
+[Tue Feb 10 20:57:19 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr5.bqsr.bam
+[Tue Feb 10 21:54:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 21:54:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 18243
+[Tue Feb 10 21:54:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 18243 is still there...
+[Tue Feb 10 21:54:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 18243 ...
+[Tue Feb 10 21:54:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 18243
+WGC021960D
+WGC021960D.chr7.bqsr.bam
+[Tue Feb 10 22:06:57 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr7.bqsr.bam
+[Tue Feb 10 22:54:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Tue Feb 10 22:54:06 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 21427
+[Tue Feb 10 22:54:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 21427 is still there...
+[Tue Feb 10 22:54:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 21427 ...
+[Tue Feb 10 22:54:08 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 21427
+WGC021960D
+WGC021960D.chr9.bqsr.bam
+[Tue Feb 10 23:30:16 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chr9.bqsr.bam
+[Wed Feb 11 00:04:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Wed Feb 11 00:04:13 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 24757
+[Wed Feb 11 00:04:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 24757 is still there...
+[Wed Feb 11 00:04:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 24757 ...
+[Wed Feb 11 00:04:15 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 24757
+WGC021960D
+WGC021960D.chrX.bqsr.bam
+[Wed Feb 11 00:12:40 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021960D/WGC021960D.chrX.bqsr.bam
+[Wed Feb 11 00:57:28 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Wed Feb 11 00:57:28 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 27244
+[Wed Feb 11 00:57:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 27244 is still there...
+[Wed Feb 11 00:57:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 27244 ...
+[Wed Feb 11 00:57:30 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 27244
+WGC021961D
+WGC021961D.chrX.bqsr.bam
+[Wed Feb 11 01:18:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021961D/WGC021961D.chrX.bqsr.bam
+[Wed Feb 11 02:20:02 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Wed Feb 11 02:20:02 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 31110
+[Wed Feb 11 02:20:04 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 31110 is still there...
+[Wed Feb 11 02:20:04 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 31110 ...
+[Wed Feb 11 02:20:04 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 31110
+WGC021966D
+WGC021966D.chr13.bqsr.bam
+[Wed Feb 11 03:02:42 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021966D/WGC021966D.chr13.bqsr.bam
+[Wed Feb 11 03:35:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Wed Feb 11 03:35:53 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 36907
+[Wed Feb 11 03:35:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 36907 is still there...
+[Wed Feb 11 03:35:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 36907 ...
+[Wed Feb 11 03:35:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 36907
+WGC021966D
+WGC021966D.chr20.bqsr.bam
+[Wed Feb 11 03:52:55 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Processing bam: /picb/papgi-pgg/zhangxi/xinjiang_ngs_analysis/xinjiang_ngs_sortedBAM_chr/WGC021966D/WGC021966D.chr20.bqsr.bam
+[Wed Feb 11 04:14:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing BAM file
+[Wed Feb 11 04:14:27 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Send TERM signal for 40024
+[Wed Feb 11 04:14:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] samtools pid process 40024 is still there...
+[Wed Feb 11 04:14:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] invoking kill -9 on 40024 ...
+[Wed Feb 11 04:14:29 2015 /picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl] Closing samtools process : 40024
+WGC021966D
+WGC021966D.chr4.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022005D
+WGC022005D.chr5.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022006D
+WGC022006D.chr3.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022009D
+WGC022009D.chrX.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr10.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr11.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr12.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr13.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr14.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr15.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr16.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr17.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr18.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr19.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr1.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr20.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr21.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr2.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr4.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr6.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr8.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chr9.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chrMT.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chrX.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022042D
+WGC022042D.chrY.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr10.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr11.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr13.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr14.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr21.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr22.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr2.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr3.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr4.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr5.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr6.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr7.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chr8.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chrMT.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chrX.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022046D
+WGC022046D.chrY.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr10.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr11.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr12.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr13.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr14.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr15.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr16.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr17.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr18.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr19.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr1.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr20.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr21.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr22.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr2.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr3.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr4.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr5.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr6.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr7.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr8.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chr9.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chrMT.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chrX.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
+WGC022048D
+WGC022048D.chrY.bqsr.bam
+Can't open perl script "/picb/humpopg5/zhangxi/breakdancer_ouput/bam2cfg.pl": No such file or directory
