@@ -42,9 +42,9 @@ my $ra_cnv_array_filtered;
 my @cnv_array_filtered;
 $ra_cnv_array_filtered = \@cnv_array_filtered;
 while(my $m <= $length){
-	my @cnv_array_splie = @$ra_ind_sv_output[$m..$length];
+	my @cnv_array_splice = @$ra_ind_sv_output[$m..$length];
 	my $ra_cnv_array_splice = \@cnv_array_splice;
-	my $ra_output = &one_to_cnv_array_self($cnv_array_splice -> $m, $ra_cnv_array_splice);
+	my $ra_output = &one_to_cnv_array_self($ra_cnv_array_splice -> $m, $ra_cnv_array_splice);
 	$m = $m + $ra_output -> [0];
 	push @$ra_cnv_array_filtered, $ra_output->[1];
 }
@@ -81,9 +81,6 @@ for my $i(0..$length){
 close $ind_sv_file;
 =cut
 
-if ($#s != $length) {
-	die("the length is note equal\n");
-}
 
 for my $i(0..$length){
 	if ( @{$ra_ind_sv_output_modefied->[$i]})
@@ -124,28 +121,22 @@ sub abstract_breakdancer{
 sub one_to_cnv_array_self{
 	my ($ra_breakpoint, $ra_array_self)=@_;
 	my $l = scalar(@$ra_array_self)-1;
-	my $output;
+	my @output;
 	my @compare_array;
 	my @output_breakpoint;
 	my $n = 0;
 	push @compare_array, $ra_breakpoint;
 	for my $i(0..$l){
-		my $signal = $one_to_one($ra_breakpoint, $ra_array_self -> [$i]);
-		use switch;
-			switch($signal){
-				case 0 {$n++; next;}
-				case 1 {last;}
-				case 2 {$n++; push @compare_array, $ra_array_self -> [$i];}
-				}
+		my $signal = &one_to_one($ra_breakpoint, $ra_array_self -> [$i]);
+				if ($signal == 0){$n++; next;}
+				elsif($signal == 1){last;}
+				elsif($signal == 2){$n++; push @compare_array, $ra_array_self -> [$i];}
 			}
 	@compare_array=(sort {$a->[5] <=> $b->[5]}@compare_array);
-	$output_breakpoint=$compare_array[$#compare_array];
-	push @$output, $n;
-	push @$output, $output_breakpoint;
-	return $output;
-	
-	push @$output, $n;
-	push @$output, []
+	my $output_breakpoint=$compare_array[$#compare_array];
+	push @output, $n;
+	push @output, $output_breakpoint;
+	return [@output];
 }
 
 
