@@ -35,14 +35,14 @@ for my $i(0..$#all_sv_dir){
 	for my $j(0..$#all_chr_dir){
 		my $sv_chr_dir="$sv_dir/$all_chr_dir[$j]";
 		opendir (CHR_DIR,"$sv_chr_dir") || die $!;
-		my @all_sv_chr_ind_type_file=grep{/^filtered\.filtered\.WGC/} readdir CHR_DIR;
+		my @all_sv_chr_ind_type_file=grep{/^WGC/} readdir CHR_DIR;
 		for my $k(0..$#all_sv_chr_ind_type_file){
 			my $ind_sv_file="$sv_chr_dir/$all_sv_chr_ind_type_file[$k]";
 			my $ind_sv_filtered_file="$sv_chr_dir/filtered2.$all_sv_chr_ind_type_file[$k]";
 			if (!-e $ind_sv_file){
 				die  "no such file\t";}
 			chdir ("$sv_chr_dir");
-			my $command="perl /home/zhangxi/Document/script/cnv_manipulate/cnvr_process/haiyi_cnvr_merge/script2_scan_overlapping_for_ind.pl $ind_sv_file $ind_sv_filtered_file";
+			my $command="perl /home/zhangxi/Document/script/dir6_cnv_manipulate/cnvr_process/cnvr_merge/script2_scan_overlapping_for_ind.pl $ind_sv_file $ind_sv_filtered_file";
 			my $ret=qx{$command};
 			print "$ret";
 		}
