@@ -1,0 +1,63 @@
+alias vw='view'
+alias bf='ssh biocomp4'
+alias ls='ls -G'
+alias ll='ls -l'
+alias la='ls -a'
+alias zim='python /Users/zhangxi/Local/zim-0.62/zim.py'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ssh='ssh -t'
+alias sc='screen'
+alias pyshs='python -m SimpleHTTPServer'
+alias rz='lrz'
+alias vim='vim -X'
+alias c='clear'
+#export CPLUS_INCLUDE_PATH=/usr/local/Cellar/gcc49/4.9.2/lib/gcc/x86_64-apple-darwin14.0.0/4.9.2/include:$CPLUS_INCLUDE_PATH
+#export LD_LIBRARY_PATH=
+export PATH=/usr/local/bin:/usr/bin:/bin:/sbin:/usr/local/sbin:/usr/sbin:$PATH
+alias ta='tmux attach'
+alias tn='tmux new -s'
+alias tl='tmux ls'
+alias tmux='TERM=xterm-256color tmux -2'
+alias tmux='tmux -2'
+#export PS1='[\u@\h \W]$'
+GREEN="\[\e[32;0m\]" 
+WHITE="\[\e[37;1m\]"
+BLACK="\[\e[30;1m\]"
+RED="\[\e[31;1m\]"
+YELLOW="\[\e[33;0m\]"
+BLUE="\[\e[34;1m\]"
+PURPLE="\[\e[35;1m\]"
+DARK_GREEN="\[\e[36;1m\]"
+CLEAR="\[\e[0m\]"
+
+
+_PWD_="\$(pwd)"
+_JOB_="jobs:\j"
+_FILECOUNT_="F:\$(/bin/ls -1 | /usr/bin/wc -l | /bin/sed 's: ::g')"
+_FACE_="\`if [ \$? = 0 ]; then echo \[\e[1\;35m\]^_^\[\e[0m\]; else echo \[\e[1\;31m\]\>_\<\[\e[0m\]; fi\`"
+_HISTORY_="\!"
+_DATE_="\$(/bin/date)"
+_CLOCK_="\t"
+_SIZE_="\$(/bin/ls -lah | /usr/bin/head -n 1 | /usr/bin/cut -d ' ' -f 2)"
+_HOSTNAME_="\$(hostname)"
+#if [ "$_HOSTNAME" =~ 'gate1.picb.ac.cn' ]; then
+#	ssh node301
+#fi
+
+#RPROMPT=$(echo '%{\033[34m%}%D %T%{\033[m%}')  
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n%{\033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+#卐 %{\033[01;31m%}>%{\033[33m%}>%{\033[34m%}>%{\033[m%}  ')  
+#}}}
+#PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME%%.*}:${PWD/#$HOME/~}"; echo -ne "\007"'
+#PS1='\[\033[02;32m\]\u@\h\[\033[02;34m\] \w \$\[\033[00m\] '  
+
+#PS1="$GREEN($WHITE\u@\h$GREEN)-($WHITE$_JOB_$GREEN)-($WHITE$_HISTORY_$GREEN)-($WHITE\w$GREEN)\n($WHITE$_FILECOUNT_$GREEN)\\$ $CLEAR"
+export PS1="$BLUE[ \u@\h ]  $GREEN$_PWD_
+$RED$ $WHITE>$BLUE>$YELLOW>  "
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+
+#RPROMPT=$(echo '%{\033[34m%}%D %T%{\033[m%}')  
+#PROMPT=$(echo '%{\033[35m%}〖 %{\033[35m%}%n%{\033[35m%}@%{\033[35m%}%m %{\033[35m%}〗  %{\033[36m%}%/  
+#卐 %{\033[01;31m%}>%{\033[33m%}>%{\033[34m%}>%{\033[m%}  ')  
+#}}}  
